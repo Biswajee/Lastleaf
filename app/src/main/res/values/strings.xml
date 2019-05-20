@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lastleaf</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Lastleaf</string>
+    <string name="nav_header_subtitle">lastleaf@team.com</string>
+    <string name="nav_header_desc">IOT Agent</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Bluetooth</string>
+    <string name="menu_slideshow">GPS</string>
+    <string name="menu_tools">General</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+</resources>
